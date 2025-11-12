@@ -1,0 +1,9 @@
+Patient_Key,Pat_MRN,Payer_Group,Age_Group,Gender
+1,90001001,Medicare A,65+,Female
+2,90001002,Commercial_PPO,45-64,Male
+3,90001003,Uninsured,25-44,Female
+4,90001004,MEDICARE,65+,Female
+5,90001005,Blue Cross,18-24,Male
+6,90001006,Aetna,45-64,Female
+7,90001007,Medi-Cal,65+,Male
+8,90001008,Commercial,45-64,Female

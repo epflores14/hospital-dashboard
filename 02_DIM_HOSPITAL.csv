@@ -1,0 +1,4 @@
+Hospital_Key,Hospital_ID,Hospital_Name,Region,Staffed_Beds
+1,TH-TX-001,Tenet Texas Medical Ctr,Southwest,350
+2,TH-FL-005,Tenet Florida General,Southeast,220
+3,TH-CA-010,Tenet California West,West,180

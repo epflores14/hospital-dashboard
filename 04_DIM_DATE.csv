@@ -1,0 +1,10 @@
+Date_Key,Full_Date,Day_of_Week,Day_Name,Is_Weekend
+20251101,2025-11-01,6,Saturday,True
+20251102,2025-11-02,7,Sunday,True
+20251103,2025-11-03,1,Monday,False
+20251104,2025-11-04,2,Tuesday,False
+20251105,2025-11-05,3,Wednesday,False
+20251106,2025-11-06,4,Thursday,False
+20251107,2025-11-07,5,Friday,False
+20251108,2025-11-08,6,Saturday,True
+20251109,2025-11-09,7,Sunday,True
