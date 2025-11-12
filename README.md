@@ -16,7 +16,7 @@ The central table is FACT_PATIENT_ENCOUNTER, which contains all the metrics (mea
 1. **Financial Metrics**: Total_Charges, Revenue_Per_Case.
 2. **Operational Metrics**: Admit_Timestamp, Discharge_Timestamp, LOS_Hours.
 3. **Quality Metrics**: Readmission_Flag, Is_ED_Admit.
-4.**Derived Metrics**: Encounter_Status (calculated based on the discharge time to determine current census).
+4. **Derived Metrics**: Encounter_Status (calculated based on the discharge time to determine current census).
 
 **The Dimension Tables (Context)**
 Three dimension tables provide the context (attributes) needed to filter and slice the fact data:
