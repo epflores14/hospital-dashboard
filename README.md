@@ -27,4 +27,10 @@ Three dimension tables provide the context (attributes) needed to filter and sli
 This dimensional model ensures that managers can quickly analyze KPIs across multiple dimensions, such as "What is the Average Length of Stay for Cardiology patients with a Medicare payer in the Southwest Region?"
 
 ---
-In the end, the end-product is a Data Mart, readily available tables that can be used as source for the hospital operations dashboard. One can use Power BI to make the necessary schema connections and DAX measures, then layout the whole dashboard. 
+In the end, the end-product is a Data Mart, readily available tables that can be used as source for the hospital operations dashboard. One can use Power BI to make the necessary schema connections and DAX measures, then layout the whole dashboard.
+
+---
+## How to Load Run the Notebook
+1. Navigate to the master branch in this repository and download the medical operations notebook.
+2. Run all commands and connect to your SQL database.
+3. Layout and work on the dashboard in BI tools like Tableau or Power BI.
